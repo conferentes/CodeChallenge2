@@ -1,0 +1,26 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "DON'T PUSH TO THE MASTER",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conferentes/CodeChallenge2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conferentes/CodeChallenge2/issues"
+  },
+  "homepage": "https://github.com/conferentes/CodeChallenge2#readme",
+  "dependencies": {
+    "jasmine": "^2.4.1",
+    "karma": "^1.1.1"
+  }
+}
